@@ -18,6 +18,18 @@
 - 전체 통계 페이지
 ![image](https://github.com/lapras23/Elice_AI10_2nd_project_netNinjas/assets/161711457/7756443e-6567-45d5-aae1-5cba168e77e3)
 
+- 추천 입력 페이지
+![image](https://github.com/lapras23/Elice_AI10_2nd_project_netNinjas/assets/161711457/ff872003-f5c3-4f3b-b6c1-21935b083e66)
+![image](https://github.com/lapras23/Elice_AI10_2nd_project_netNinjas/assets/161711457/0ec0f4c4-2106-468e-a63c-bf7969f84ae0)
+![image](https://github.com/lapras23/Elice_AI10_2nd_project_netNinjas/assets/161711457/fb5d27b0-5514-4a34-af89-23b8ffa76bef)
+![image](https://github.com/lapras23/Elice_AI10_2nd_project_netNinjas/assets/161711457/8859004a-ad16-4456-9ba1-bbf3da317ab8)
+![image](https://github.com/lapras23/Elice_AI10_2nd_project_netNinjas/assets/161711457/5298b8a6-ec30-44da-8f8e-844a946bfeaf)
+![image](https://github.com/lapras23/Elice_AI10_2nd_project_netNinjas/assets/161711457/6308096f-56af-456a-a286-b5c77c29029b)
+![image](https://github.com/lapras23/Elice_AI10_2nd_project_netNinjas/assets/161711457/da4148fb-40fa-414c-8ad1-9b368f6bae2c)
+
+- 404 페이지
+![image](https://github.com/lapras23/Elice_AI10_2nd_project_netNinjas/assets/161711457/ec705bec-c2ed-4e43-add2-7d3c479adc03)
+
 
 ## 🪄 배운 것 정리
 
