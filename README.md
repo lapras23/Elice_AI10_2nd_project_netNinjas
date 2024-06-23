@@ -16,7 +16,8 @@
 ![image](https://github.com/lapras23/Elice_AI10_2nd_project_netNinjas/assets/161711457/6617d846-7693-45a7-95bc-4764ec1fbb6f)
 
 - 전체 통계 페이지
-![image](https://github.com/lapras23/Elice_AI10_2nd_project_netNinjas/assets/161711457/5c36be11-3b16-4e69-ae87-e3b2a854fb85)
+<img width="1295" alt="image" src="https://github.com/lapras23/Elice_AI10_2nd_project_netNinjas/assets/161711457/7756443e-6567-45d5-aae1-5cba168e77e3">
+
 
 ## 🪄 배운 것 정리
 
