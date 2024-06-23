@@ -13,8 +13,7 @@
 ## 💻 역할 (Front-end)
 
 - 서울시 자치구 소개 페이지
-![image](https://github.com/lapras23/Elice_AI10_2nd_project_netNinjas/assets/161711457/1768e3c9-c6fc-466a-bcec-23a99b7b9153)
-
+![image](https://github.com/lapras23/Elice_AI10_2nd_project_netNinjas/assets/161711457/1ad30f7b-5cf6-48ef-89c2-c444bbda54e6)
 
 - 전체 통계 페이지
 ![image](https://github.com/lapras23/Elice_AI10_2nd_project_netNinjas/assets/161711457/7756443e-6567-45d5-aae1-5cba168e77e3)
