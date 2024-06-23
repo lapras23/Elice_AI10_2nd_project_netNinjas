@@ -24,8 +24,9 @@
 ![image](https://github.com/lapras23/Elice_AI10_2nd_project_netNinjas/assets/161711457/fb5d27b0-5514-4a34-af89-23b8ffa76bef)
 ![image](https://github.com/lapras23/Elice_AI10_2nd_project_netNinjas/assets/161711457/8859004a-ad16-4456-9ba1-bbf3da317ab8)
 ![image](https://github.com/lapras23/Elice_AI10_2nd_project_netNinjas/assets/161711457/5298b8a6-ec30-44da-8f8e-844a946bfeaf)
-![image](https://github.com/lapras23/Elice_AI10_2nd_project_netNinjas/assets/161711457/6308096f-56af-456a-a286-b5c77c29029b)
-![image](https://github.com/lapras23/Elice_AI10_2nd_project_netNinjas/assets/161711457/da4148fb-40fa-414c-8ad1-9b368f6bae2c)
+![image](https://github.com/lapras23/Elice_AI10_2nd_project_netNinjas/assets/161711457/032a7c34-40c3-4d09-b552-8997211bc1e6)
+![image](https://github.com/lapras23/Elice_AI10_2nd_project_netNinjas/assets/161711457/2999e4b5-df0d-4e05-b423-f6fb9063e4fe)
+
 
 - 404 페이지
 ![image](https://github.com/lapras23/Elice_AI10_2nd_project_netNinjas/assets/161711457/ec705bec-c2ed-4e43-add2-7d3c479adc03)
