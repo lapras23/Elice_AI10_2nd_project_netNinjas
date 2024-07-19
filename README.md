@@ -4,7 +4,10 @@
 
 서울로 상경하는 MZ 세대를 위한 동네 추천 서비스
 
-## 🥰 Net Ninjas
+## 🥰 Net Ninjas (최우수상 수상)
+
+![240711 최우수상 1](https://github.com/user-attachments/assets/2051a93c-e5cc-4006-b4f1-44b46aaa3ae8)
+
 
 ## ✨ Stack
 
