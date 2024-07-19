@@ -6,7 +6,7 @@
 
 ## 🥰 Net Ninjas (최우수상 수상)
 
-![240711 최우수상 1](https://github.com/user-attachments/assets/2051a93c-e5cc-4006-b4f1-44b46aaa3ae8)
+<img src="https://github.com/user-attachments/assets/2051a93c-e5cc-4006-b4f1-44b46aaa3ae8" alt="240711 최우수상 1" width="300"/>
 
 
 ## ✨ Stack
